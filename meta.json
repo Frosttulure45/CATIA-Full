@@ -1,0 +1,23 @@
+{
+  "repo": "catia-full",
+  "product": "CATIA Full",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "plm-cad",
+  "topics": [
+    "catia-pro",
+    "g2-surface-desk",
+    "dmu-assembly-windows",
+    "catia-2026",
+    "how-to-install-catia",
+    "catia-desktop-package",
+    "gtol-draft-suite",
+    "product-constraint-tools",
+    "plm-cad-edition",
+    "catia-pro-edition"
+  ],
+  "site": "toolix.me"
+}
